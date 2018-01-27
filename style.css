@@ -93,6 +93,11 @@ hr {
   border-color: silver;
 }
 
+#contact {
+  padding-top: 0px;
+  margin-top: 2rem;
+}
+
 #contact-button {
   background-color: silver;
   border-color: grey;
@@ -102,7 +107,11 @@ hr {
 #contact-button:hover {
   background-color: darkgrey;
   border-color: black;
-  
+}
+
+#contact-text {
+  margin: 1rem 0 3rem;
+  padding: 1rem;
 }
 
 #github:hover {
