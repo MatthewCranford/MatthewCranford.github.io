@@ -69,9 +69,16 @@ hr {
   font-size: 1.5em;
 }
 
-#about-image {
-  border-radius: 100%;
-  max-width: 100px;
+#about-image-container {
+  border-radius: 50%;
+  background-image: url("https://drive.google.com/uc?id=1WeCRPjC6UIU8XncPigyTF8uK1K60msD1");
+  width: 120px;
+  height: 120px;
+  background-size: cover;
+  background-position: center center;
+  margin: auto;
+
+
 }
 
 #card {
